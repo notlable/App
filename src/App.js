@@ -79,7 +79,7 @@ const App = () => {
       {
       submit ? <Header style={styles.body}>
       <Text style={styles.text}>
-        You are registered as {name}</Text>
+        You are registered ass {name}</Text>
         <Image
         // source={{uri:'https://cdn.pixabay.com/photo/2021/11/30/08/24/strawberries-6834750__480.jpg'}}
         source={require('./assets/done.png')}
